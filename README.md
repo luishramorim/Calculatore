@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/Kotlin-100000?style=flat&logo=kotlin&logoColor=white&labelColor=blue" alt="Kotlin">
     <img src="https://img.shields.io/badge/Jetpack%20Compose-100000?style=flat&logo=android&logoColor=white&labelColor=green" alt="Jetpack Compose">
     <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow" alt="Status">
-    <img src="https://img.shields.io/github/license/luishramorim/calculatore" alt="Licença">
 </p>
 
 <hr>
