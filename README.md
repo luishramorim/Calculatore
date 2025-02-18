@@ -48,7 +48,7 @@
 <h3>Passos:</h3>
 <ol>
     <li>Clone este repositório:
-        <pre><code>git clone https://github.com/seu-usuario/seu-repositorio.git</code></pre>
+        <pre><code>git clone https://github.com/luishramorim/Calculatore.git</code></pre>
     </li>
     <li>Abra o projeto no <strong>Android Studio</strong>.</li>
     <li>Aguarde a sincronização do Gradle.</li>
